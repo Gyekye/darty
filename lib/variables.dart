@@ -1,5 +1,5 @@
 /// Basic Variables in Dart code
-/// Dart variables are static
+/// Dart variables are statically typed
 
 void main() {
   /// Creating a variable with var
@@ -52,6 +52,4 @@ void main() {
   //You can’t change the value of a const variable:
   const baz = []; // Equivalent to `const []`
   // baz = [42]; Error: Constant variables can't be assigned a value.
-
 }
-
